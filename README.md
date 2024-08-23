@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Khurram1501
-- 👀 I’m interested in .Net Development.
-- 🌱 I’m currently learning c# 
-- 💞️ I’m looking to collaborate on .Net Development.
+- 👋 Hi, I’m Khurram
+- 👀 I’m interested in cloud computing.
+- 🌱 I’m currently learning cloud computing  
+- 💞️ I’m looking to collaborate on cloud computing
 
 <!---
 Khurram1501/Khurram1501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
